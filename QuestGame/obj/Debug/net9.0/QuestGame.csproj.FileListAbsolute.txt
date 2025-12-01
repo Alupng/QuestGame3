@@ -1,0 +1,15 @@
+/Users/emmanuelalu/Documents/QuestGame3/QuestGame/bin/Debug/net9.0/QuestGame
+/Users/emmanuelalu/Documents/QuestGame3/QuestGame/bin/Debug/net9.0/QuestGame.deps.json
+/Users/emmanuelalu/Documents/QuestGame3/QuestGame/bin/Debug/net9.0/QuestGame.runtimeconfig.json
+/Users/emmanuelalu/Documents/QuestGame3/QuestGame/bin/Debug/net9.0/QuestGame.dll
+/Users/emmanuelalu/Documents/QuestGame3/QuestGame/bin/Debug/net9.0/QuestGame.pdb
+/Users/emmanuelalu/Documents/QuestGame3/QuestGame/obj/Debug/net9.0/QuestGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emmanuelalu/Documents/QuestGame3/QuestGame/obj/Debug/net9.0/QuestGame.AssemblyInfoInputs.cache
+/Users/emmanuelalu/Documents/QuestGame3/QuestGame/obj/Debug/net9.0/QuestGame.AssemblyInfo.cs
+/Users/emmanuelalu/Documents/QuestGame3/QuestGame/obj/Debug/net9.0/QuestGame.csproj.CoreCompileInputs.cache
+/Users/emmanuelalu/Documents/QuestGame3/QuestGame/obj/Debug/net9.0/QuestGame.dll
+/Users/emmanuelalu/Documents/QuestGame3/QuestGame/obj/Debug/net9.0/refint/QuestGame.dll
+/Users/emmanuelalu/Documents/QuestGame3/QuestGame/obj/Debug/net9.0/QuestGame.pdb
+/Users/emmanuelalu/Documents/QuestGame3/QuestGame/obj/Debug/net9.0/QuestGame.genruntimeconfig.cache
+/Users/emmanuelalu/Documents/QuestGame3/QuestGame/obj/Debug/net9.0/ref/QuestGame.dll
+/Users/emmanuelalu/Documents/QuestGame3/QuestGame/obj/Debug/net9.0/QuestGame.sourcelink.json

@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestGame.Tests", "QuestGame.Tests\QuestGame.Tests.csproj", "{A9BAE7B7-ED89-A44E-E099-49357B329767}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestGame", "QuestGame\QuestGame.csproj", "{A6E03C32-8149-4AAF-3159-F5040E727781}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9BAE7B7-ED89-A44E-E099-49357B329767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9BAE7B7-ED89-A44E-E099-49357B329767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9BAE7B7-ED89-A44E-E099-49357B329767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9BAE7B7-ED89-A44E-E099-49357B329767}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6E03C32-8149-4AAF-3159-F5040E727781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6E03C32-8149-4AAF-3159-F5040E727781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6E03C32-8149-4AAF-3159-F5040E727781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6E03C32-8149-4AAF-3159-F5040E727781}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C2104E8-1596-4898-A5A3-5B8A4FE039CC}
+	EndGlobalSection
+EndGlobal
